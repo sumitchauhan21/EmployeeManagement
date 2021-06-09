@@ -1,0 +1,23 @@
+/* CSS STYLE FOR UPDATE FORM */
+#mainrow{
+    width: 90%;
+   background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/sections-3.jpg);
+   background-size: cover;
+   background-attachment: fixed;
+   opacity: 0.9;
+ }
+.title {
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 3px;
+font-size: 3.2em;
+line-height: 48px;
+padding-bottom: 48px;
+  color: #5543ca;
+ background: #5543ca;
+ background: -moz-linear-gradient(left,#f4524d  0%,#5543ca 100%) !important;
+ background: -webkit-linear-gradient(left,#f4524d  0%,#5543ca 100%) !important;
+ background: linear-gradient(to right,#f4524d  0%,#5543ca  100%) !important;
+-webkit-background-clip: text !important;
+ -webkit-text-fill-color: transparent !important;
+}
